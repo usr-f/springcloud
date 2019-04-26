@@ -1,0 +1,19 @@
+spring:
+  application:
+    name: redis-server
+
+server:
+  port: 8999
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:7001/eureka/
+
+redisconfig:
+  host: "192.168.74.130"
+  port: "6379"
+  maxTotal: 100
+  maxIdle: 10
+  maxWaitMillis: 10000
+  testOnBorrow: true

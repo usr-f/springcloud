@@ -1,0 +1,17 @@
+server:
+  port: 8906
+spring:
+  application:
+    name: cloud-zuul
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:7001/eureka/
+zuul:
+  routes:
+    api-a:
+      path: /api/a/**
+      serviceId: web-admin-ribbon
+    api-b:
+      path: /api/b/**
+      serviceId: web-admin-feign

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloud-config-server/cloud-config-server.iml" filepath="$PROJECT_DIR$/cloud-config-server/cloud-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-spring-mybatis/cloud-spring-mybatis.iml" filepath="$PROJECT_DIR$/cloud-spring-mybatis/cloud-spring-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-spring-mybatis-old/cloud-spring-mybatis-old.iml" filepath="$PROJECT_DIR$/cloud-spring-mybatis-old/cloud-spring-mybatis-old.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-web-admin-feign/cloud-web-admin-feign.iml" filepath="$PROJECT_DIR$/cloud-web-admin-feign/cloud-web-admin-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-zuul/cloud-zuul.iml" filepath="$PROJECT_DIR$/cloud-zuul/cloud-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudeurekaserver/cloudeurekaserver.iml" filepath="$PROJECT_DIR$/cloudeurekaserver/cloudeurekaserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudredisserver/cloudredisserver.iml" filepath="$PROJECT_DIR$/cloudredisserver/cloudredisserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudserviceadmin/cloudserviceadmin.iml" filepath="$PROJECT_DIR$/cloudserviceadmin/cloudserviceadmin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudwebadminribbon/cloudwebadminribbon.iml" filepath="$PROJECT_DIR$/cloudwebadminribbon/cloudwebadminribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudwebclient/cloudwebclient.iml" filepath="$PROJECT_DIR$/cloudwebclient/cloudwebclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservicecloud.iml" filepath="$PROJECT_DIR$/microservicecloud.iml" />
+    </modules>
+  </component>
+</project>

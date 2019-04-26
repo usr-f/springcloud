@@ -1,0 +1,10 @@
+com\qif\cloud\mybatis\old\service\impl\GirlService.class
+com\qif\cloud\mybatis\old\service\IGirlService.class
+com\qif\cloud\mybatis\old\algorithm\TableRangeShardingAlgorithm.class
+com\qif\cloud\mybatis\old\dao\GirlMapper.class
+com\qif\cloud\mybatis\old\model\Girl_info.class
+com\qif\cloud\mybatis\old\controller\girlController.class
+com\qif\cloud\mybatis\old\SpringMybatisOldApplication.class
+com\qif\cloud\mybatis\old\algorithm\DatabaseShardingAlgorithm.class
+com\qif\cloud\mybatis\old\algorithm\TablePreciseShardingAlgorithm.class
+com\qif\cloud\mybatis\old\config\ShardingConfig.class

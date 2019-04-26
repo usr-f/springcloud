@@ -1,0 +1,14 @@
+spring:
+  datasource:
+    druid:
+      url: jdbc:mysql://localhost:3306/crm?useUnicode=true&&characterEncoding=utf-8
+      username: root
+      password: root
+      initial-size: 1
+      min-idle: 1
+      max-active: 20
+      test-on-borrow: true
+      driver-class-name: com.mysql.jdbc.driver
+mybatis:
+  type-aliases-package: oom.qif.cloud.spring.mybatis.entity
+  mapper-locations: classpath:mapper/*.xml

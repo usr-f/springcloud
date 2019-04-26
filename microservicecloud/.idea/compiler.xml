@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cloud-config-server" />
+        <module name="cloud-spring-mybatis" />
+        <module name="cloud-spring-mybatis-old" />
+        <module name="cloud-web-admin-feign" />
+        <module name="cloud-zuul" />
+        <module name="cloudeurekaserver" />
+        <module name="cloudredisserver" />
+        <module name="cloudserviceadmin" />
+        <module name="cloudwebadminribbon" />
+        <module name="cloudwebclient" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cloud-config-server" target="1.8" />
+      <module name="cloud-spring-mybatis" target="1.8" />
+      <module name="cloud-spring-mybatis-old" target="1.8" />
+      <module name="cloud-web-admin-feign" target="1.8" />
+      <module name="cloud-zuul" target="1.8" />
+      <module name="cloudeurekaserver" target="1.8" />
+      <module name="cloudredisserver" target="1.8" />
+      <module name="cloudserviceadmin" target="1.8" />
+      <module name="cloudwebadminribbon" target="1.8" />
+      <module name="cloudwebclient" target="1.8" />
+      <module name="microservicecloud" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

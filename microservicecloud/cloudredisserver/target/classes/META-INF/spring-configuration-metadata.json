@@ -1,0 +1,42 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.qif.redis.redis.Config.RedisConfig",
+      "name": "redisconfig",
+      "type": "com.qif.redis.redis.Config.RedisConfig"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.qif.redis.redis.Config.RedisConfig",
+      "name": "redisconfig.host",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.qif.redis.redis.Config.RedisConfig",
+      "name": "redisconfig.max-idle",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.qif.redis.redis.Config.RedisConfig",
+      "name": "redisconfig.max-total",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.qif.redis.redis.Config.RedisConfig",
+      "name": "redisconfig.max-wait-millis",
+      "type": "java.lang.Long"
+    },
+    {
+      "sourceType": "com.qif.redis.redis.Config.RedisConfig",
+      "name": "redisconfig.port",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.qif.redis.redis.Config.RedisConfig",
+      "name": "redisconfig.test-on-borrow",
+      "type": "java.lang.Boolean"
+    }
+  ]
+}

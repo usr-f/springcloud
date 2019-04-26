@@ -1,0 +1,4 @@
+com\qif\cloud\web\admin\ribbon\controller\AdminController.class
+com\qif\cloud\web\admin\ribbon\config\RestTemplateConfiguration.class
+com\qif\cloud\web\admin\ribbon\WebAdminRibbonApplication.class
+com\qif\cloud\web\admin\ribbon\service\AdminService.class

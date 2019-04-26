@@ -1,0 +1,9 @@
+server:
+  port: 8902
+spring:
+  application:
+    name: service-admin
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:7001/eureka/

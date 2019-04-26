@@ -1,0 +1,21 @@
+server:
+  port: 8888              # 这个8888不能改 想改要单独写一个bootstrap.yml
+spring:
+  application:
+    name: cloud-config-server
+  cloud:
+    config:
+      label: master
+      server:
+        git:
+          uri: https://github.com/usr-f/microservicecloud
+          search-paths: respo
+          username: usr-f
+          password: 19950530qifang
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:7001/eureka/
+feign:
+  hystrix:
+    enabled: true

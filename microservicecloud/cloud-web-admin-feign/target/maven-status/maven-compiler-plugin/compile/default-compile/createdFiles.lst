@@ -1,0 +1,4 @@
+com\qif\cloud\web\admin\feign\controller\AdminController.class
+com\qif\cloud\web\admin\feign\service\Hystrix\AdminServiceHystrix.class
+com\qif\cloud\web\admin\feign\WebAdminFeignApplication.class
+com\qif\cloud\web\admin\feign\service\AdminService.class
